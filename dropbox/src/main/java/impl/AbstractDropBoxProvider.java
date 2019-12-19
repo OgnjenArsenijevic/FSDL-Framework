@@ -13,8 +13,7 @@ abstract class AbstractDropBoxProvider {
      * https://www.dropbox.com/developers/apps
      * Najpre registrujemo aplikaciju, potom generisemo pristupni token.
      */
-    //  private static final String ACCESS_TOKEN = "l4BCQC6u5aAAAAAAAAAAE4doXc40NMpBWexvB2gcoys-TGbrDNO0c39eIxdy_g0G";
-    private static final String ACCESS_TOKEN = "biVFIY4hjZAAAAAAAAAAEAufdG8Ty3iWNoH2ykQCKFSgUp7zBsKdqJimMzfMYgsS";
+    private static final String ACCESS_TOKEN = "ENTER YOUR ACCESS TOKEN";
     /*
      * Referenca na nalog
      */
